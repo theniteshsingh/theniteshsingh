@@ -11,7 +11,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="20" height="20"/>
-  <img src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg" alt="Dart" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" height="20"/> 
   <img src="https://img.icons8.com/ultraviolet/40/000000/xbox-r.png" alt="R" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
