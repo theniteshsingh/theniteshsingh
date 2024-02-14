@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **theniteshsingh@outlook.com**
+- 📫 How to reach me **office@theniteshsingh.com**
 
 
 
