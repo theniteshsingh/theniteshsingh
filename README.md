@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/0dbbaee8-e1ba-4018-b2c3-9018f2c0c811)
 
 <h1 align="center">Hi 👋, I'm Nitesh Singh </h1>
 <h3 align="center">A Humanoid </h3>
@@ -7,7 +7,7 @@
 
 <p align="left">
 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
+ <img src="https://img.icons8.com/?size=80&id=AeV543ttZrcT&format=png" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="20" height="20"/>
