@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0dbbaee8-e1ba-4018-b2c3-9018f2c0c811)
+
 
 <h1 align="center">Hi 👋, I'm Nitesh Singh </h1>
 <h3 align="center">A Humanoid </h3>
